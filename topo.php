@@ -10,11 +10,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Loja Informática</title>
+    <link rel="stylesheet" href="estilo.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   </head>
 
-  <body>
-    
+  <body style="background-color: grey;">
+
   <nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark border-bottom border-body" data-bs-theme="dark">
   <div class="container-fluid">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -39,11 +40,11 @@
 </nav>
 
 <div class=" col-11 mx-auto">
-<button type="button" class="btn btn-outline-primary btn-lg"><img src="img/pcgamer.jpg" alt="pcgamer" width="200" height="150" ></button>
-<button type="button" class="btn btn-outline-secondary btn-lg"><img src="img/celular.jpg" alt="celular" width="200" height="150" ></button>
-<button type="button" class="btn btn-outline-success btn-lg"><img src="img/placavideo.jpg" alt="celular" width="200" height="150" ></button>
-<button type="button" class="btn btn-outline-danger btn-lg"><img src="img/ps4.png" alt="celular" width="200" height="150" ></button>
-<button type="button" class="btn btn-outline-warning btn-lg"><img src="img/jogo.jpg" alt="celular" width="200" height="150" ></button>
+<button type="button" class="btn btn-outline-primary btn-lg btn-primary"><img src="img/computador.png" alt="pcgamer" width="200" height="150" ></button>
+<button type="button" class="btn btn-outline-secondary btn-lg btn-secondary"><img src="img/smartphone.png" alt="celular" width="200" height="150" ></button>
+<button type="button" class="btn btn-outline-success btn-lg btn-success"><img src="img/rtx.png" alt="celular" width="200" height="150" ></button>
+<button type="button" class="btn btn-outline-danger btn-lg btn-danger"><img src="img/ps4.png" alt="celular" width="200" height="150" ></button>
+<button type="button" class="btn btn-outline-warning btn-lg btn-warning"><img src="img/godofwar.png" alt="celular" width="200" height="150" ></button>
 </div>
 
 
